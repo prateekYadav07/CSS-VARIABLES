@@ -11,6 +11,10 @@ img{
     filter: blur(var(--blur));
 }
 
+span{
+    color: var(--base);
+}
+
 body {
     text-align: center;
     background: #193549;
